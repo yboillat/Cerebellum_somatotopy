@@ -7,5 +7,5 @@ Part of the code was made with matlab while the other part is from the CBS tools
 The matlab code concerns mostly the generation of the label maps, extraction of values and statisitcs.
 The CBS tools code concerns mostly the segmentation, normalization into MNI/CHROMA space and surface generation.
 
-The Page test statistics are computed using code from https://www.mathworks.com/matlabcentral/fileexchange/14419-perform-page-test
+The matlab code depends on SPM and the Page test statistics are computed using code from https://www.mathworks.com/matlabcentral/fileexchange/14419-perform-page-test
 
